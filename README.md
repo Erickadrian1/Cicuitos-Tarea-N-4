@@ -27,6 +27,13 @@
 
 ### Ejercicios Capitulo 7 
 
+**31. Vea el circuito de la figura 7-71: 
+a. Determine el intervalo del voltaje de salida (del mínimo al máximo) que se espera cuando el potenciómetro se ajusta del mínimo al máximo.
+b. Calcule R2 cuando Vsal=20V. **
+
+
+
+
 ### Ejercicios Capitulo 8 
 
 
