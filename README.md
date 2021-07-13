@@ -22,6 +22,9 @@
 
 ## 2. Marco Teorico: 
 
+### Capitulo 7
+![image](https://user-images.githubusercontent.com/85208164/125455291-9eda1806-9676-407c-8097-bc20c1089448.png)
+
 ### Capitulo 8
 ![Cap 8](https://user-images.githubusercontent.com/85526684/125401632-063ad900-e379-11eb-9ebf-8c0af2fa809d.png)
 
