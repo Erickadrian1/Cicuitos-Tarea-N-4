@@ -22,6 +22,8 @@
 
 ## 2. Marco Teorico: 
 
+
+
 ### Capitulo 7
 ![image](https://user-images.githubusercontent.com/85208164/125455291-9eda1806-9676-407c-8097-bc20c1089448.png)
 
@@ -31,6 +33,20 @@
 ## 3. Explicación y Resolución de ejercicios o problemas: 
 
 ### Ejercicios Capitulo 7 
+
+![1](https://user-images.githubusercontent.com/85208164/125538316-52b5738c-fa91-454f-bf67-90f0e5a62818.png)
+![3](https://user-images.githubusercontent.com/85208164/125538318-02df5a44-6f74-43a0-91ec-ce9f29e2ec40.png)
+![4](https://user-images.githubusercontent.com/85208164/125538321-a122d645-2208-4afd-917c-e54c1e54acad.png)
+![5](https://user-images.githubusercontent.com/85208164/125538322-f36adeef-c41a-4df0-a407-a30cf8f2031a.png)
+![6](https://user-images.githubusercontent.com/85208164/125538323-194e917c-e039-4b54-af48-a72b52ee2242.png)
+![7](https://user-images.githubusercontent.com/85208164/125538324-f5c45208-2bc0-4685-a467-88e061a7381b.png)
+![9](https://user-images.githubusercontent.com/85208164/125538325-e9db3d5a-c763-4e39-8c09-2b0c818e8073.png)
+![13](https://user-images.githubusercontent.com/85208164/125538326-0c2d4166-4d82-4e5b-8ac3-314e6433d1cd.png)
+![14](https://user-images.githubusercontent.com/85208164/125538327-45b6c914-93b6-482b-84cb-e661b0a84cf8.png)
+![15](https://user-images.githubusercontent.com/85208164/125538329-c4f03100-f628-4562-b2b6-640f85c13768.png)
+![16](https://user-images.githubusercontent.com/85208164/125538332-fd108b2f-a809-4c5e-b596-e35bc7bc7e86.png)
+
+
 
 **31. Vea el circuito de la figura 7-71: 
 a. Determine el intervalo del voltaje de salida (del mínimo al máximo) que se espera cuando el potenciómetro se ajusta del mínimo al máximo.
