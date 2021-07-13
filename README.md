@@ -22,6 +22,7 @@
 
 ## 2. Marco Teorico: 
 
+### Capitulo 8
 ![Cap 8](https://user-images.githubusercontent.com/85526684/125401632-063ad900-e379-11eb-9ebf-8c0af2fa809d.png)
 
 ## 3. Explicación y Resolución de ejercicios o problemas: 
@@ -143,10 +144,34 @@ Rt=(5.625*3.375*13.5)/(5.625*3.375+5.625*13.5+3.375*13.5)=1.82k	I=60/1820=32.97m
 
 8-8 Redes puente        
 47. Vea el circuito puente de la figura 8-100            
-    a. El puente esta balanceado? Explique.
-    b. Escriba las ecuaciones de malla.
-    c. Calcule la corriente a travez de R5.
-    d. Determine el voltaje en R5.
+    a. El puente esta balanceado? Explique.     
+    b. Escriba las ecuaciones de malla.     
+    c. Calcule la corriente a travez de R5.     
+    d. Determine el voltaje en R5.      
+
+![47](https://user-images.githubusercontent.com/85526684/125412296-6125fd80-e384-11eb-9cf2-d19ec615399b.png)
+
+R1/R2=R3/R4=>12/18=6/6=>2/3=1       
+R: Referente a la formula las resistencias la relación R1 y R2  es 2/3 partes de la relación R3 y R4        
+15=12*I1-12*I2+6*I1-6*I2	0=12(I2-I1)+18*I2+24(I2-I3)     
+0=6(I3-I1)+6*I3+24(I3-I2)       
+15=18*I1-18*I2		0=-12*I1+54*I2-24*I3	        
+0=-6*I1-24*I2+36*I3     
+I1=1.4394A	I2=606.1mA	I3=643.9mA      
+V=(643.9-606.1)*〖10〗^(-3)*24=907.2mV        
+
+49. En el circuito puente de la figura 8-102 encuentre la corriente a travez de cada resistor
+
+![49](https://user-images.githubusercontent.com/85526684/125412859-19bed5c8-1d7b-4104-be15-65b10cacb1a1.png)
+
+24=100*I1+100*I1-100*I2+300*I2+100*I2-100*I3        
+0=100*I2-100*I1+300*I2+100*I2-100*I3        
+0=300*I3-300*I1+900*I3+100*I3-100*I2        
+24=200*I1+300*I2-100*I3     
+0=-100*I1+500*I2-100*I3     
+0=-300*I1-100*I2+1300*I3        
+I1=96mA	I2=24mA	I3=24mA     
+IRs=96mA	IR1=72mA	IR2=24mA	IR3=72mA	IR4=24mA	IR5≈0A      
 
 ## 4. Video: 
 
