@@ -57,6 +57,8 @@
 
 ### Ejercicios Capitulo 8 
 
+
+![21](https://user-images.githubusercontent.com/84588860/125568142-9b495533-ecf3-4458-a14f-3c1908a276d5.jpeg)
 ![10](https://user-images.githubusercontent.com/84588860/125567752-be4bb800-6312-4d6f-908d-b26e657cc15a.jpeg)
 ![11](https://user-images.githubusercontent.com/84588860/125567753-f70be161-1196-4363-8801-c0e82fe21498.jpeg)
 ![12](https://user-images.githubusercontent.com/84588860/125567755-110d5de3-20d0-4994-9acf-9388ca0ff1fd.jpeg)
