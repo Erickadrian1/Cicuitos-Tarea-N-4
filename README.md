@@ -218,3 +218,8 @@ https://youtu.be/jF1W-JEY2do
 
 
 ## 6. Bibliografia: 
+
+Vizcaíno, J. R. L., & Sebastiá, J. P. (2011). LabView: entorno gráfico de programación. Marcombo.
+
+Robbins, A. H. (2008). Análisis de Circuitos Teoría y Práctica. Santa Fe-México: Cengage Learning.
+
