@@ -172,12 +172,13 @@ Rt=(5.625*3.375*13.5)/(5.625*3.375+5.625*13.5+3.375*13.5)=1.82k	I=60/1820=32.97m
 
 R1/R2=R3/R4=>12/18=6/6=>2/3=1       
 R: Referente a la formula las resistencias la relación R1 y R2  es 2/3 partes de la relación R3 y R4        
-15=12*I1-12*I2+6*I1-6*I2	0=12(I2-I1)+18*I2+24(I2-I3)     
+15=12*I1-12*I2+6*I1-6*I3	0=12(I2-I1)+18*I2+24(I2-I3)     
 0=6(I3-I1)+6*I3+24(I3-I2)       
-15=18*I1-18*I2		0=-12*I1+54*I2-24*I3	        
+15=18*I1+6*I2-6*I3		0=-12*I1+54*I2-24*I3	        
 0=-6*I1-24*I2+36*I3     
-I1=1.4394A	I2=606.1mA	I3=643.9mA      
+I1=850mA	I2=323.6mA	I3=272.8mA I5=50.8mA        
 V=(643.9-606.1)*〖10〗^(-3)*24=907.2mV        
+      
 
 49. En el circuito puente de la figura 8-102 encuentre la corriente a travez de cada resistor
 
@@ -196,7 +197,8 @@ IRs=96mA	IR1=72mA	IR2=24mA	IR3=72mA	IR4=24mA	IR5≈0A
 
 Parte 1:
 https://www.youtube.com/watch?v=qhxnEbUQuNo
-
+Parte 2:
+https://youtu.be/jF1W-JEY2do
 
 ## 5. Conclusiones: 
 
