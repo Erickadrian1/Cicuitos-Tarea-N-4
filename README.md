@@ -234,10 +234,24 @@ IRs=96mA	IR1=72mA	IR2=24mA	IR3=72mA	IR4=24mA	IR5≈0A
 
 Parte 1:
 https://www.youtube.com/watch?v=qhxnEbUQuNo
+
 Parte 2:
 https://youtu.be/jF1W-JEY2do
 
 ## 5. Conclusiones: 
+
+•	Aprendimos a calcular la resistencia total de un circuito en un circuito serie-paralelo mediante el anasis de estos.
+
+•	Vimos que en un circuito en serie-paralelo se aplican las mismas leyes que un circuito en paralelo o en un circuito en serie y poco a poco podemos irlo reduciendo.
+
+•	Aprendimos a calcular los efectos de carga tanto en un voltímetro como en un amperímetro y vimos los efectos que estos causan en una red. 
+
+•	Al convertir fuentes de voltaje y corriente observamos que, aunque las fuentes son equivalentes, las corrientes y voltajes en ellas no pueden ser los mismo.
+
+•	Aprendimos que aparte de las leyes de Kirchhoff existen otras herramientas para analizar circuitos como el Análisis de corriente de rama, Análisis de mallas y el análisis de nodos. 
+
+•	Al aprender todos los métodos anteriormente mencionados podemos determinar el voltaje o la corriente en cualquier elemento de una red.
+
 
 
 ## 6. Bibliografia: 
