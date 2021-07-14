@@ -250,7 +250,7 @@ https://youtu.be/jF1W-JEY2do
 
 •	Aprendimos que aparte de las leyes de Kirchhoff existen otras herramientas para analizar circuitos como el Análisis de corriente de rama, Análisis de mallas y el análisis de nodos. 
 
-•	Al aprender todos los métodos anteriormente mencionados podemos determinar el voltaje o la corriente en cualquier elemento de una red.
+•	Al aprender todos los métodos anteriormente mencionados, podemos determinar el voltaje o la corriente en cualquier elemento de una red.
 
 
 
