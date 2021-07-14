@@ -194,6 +194,9 @@ IRs=96mA	IR1=72mA	IR2=24mA	IR3=72mA	IR4=24mA	IR5≈0A
 
 ## 4. Video: 
 
+Parte 1:
+https://www.youtube.com/watch?v=qhxnEbUQuNo
+
 
 ## 5. Conclusiones: 
 
