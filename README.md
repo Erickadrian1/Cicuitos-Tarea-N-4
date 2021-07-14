@@ -57,6 +57,18 @@
 
 ### Ejercicios Capitulo 8 
 
+![10](https://user-images.githubusercontent.com/84588860/125567752-be4bb800-6312-4d6f-908d-b26e657cc15a.jpeg)
+![11](https://user-images.githubusercontent.com/84588860/125567753-f70be161-1196-4363-8801-c0e82fe21498.jpeg)
+![12](https://user-images.githubusercontent.com/84588860/125567755-110d5de3-20d0-4994-9acf-9388ca0ff1fd.jpeg)
+![13](https://user-images.githubusercontent.com/84588860/125567760-313671b7-2505-4f25-b849-7dc0eb25ac39.jpeg)
+![14](https://user-images.githubusercontent.com/84588860/125567762-3cd98778-27ae-4f3f-9160-2bd3979bb7a4.jpeg)
+![15](https://user-images.githubusercontent.com/84588860/125567766-4f55c480-11a3-4d40-83ee-b5c703edd8cf.jpeg)
+![16](https://user-images.githubusercontent.com/84588860/125567767-5616752e-f384-4bd7-9a11-cac6ace09a50.jpeg)
+![17](https://user-images.githubusercontent.com/84588860/125567769-36e409b7-56e2-4bf1-a59b-3999ff498b29.jpeg)
+![18](https://user-images.githubusercontent.com/84588860/125567771-80feba1e-d9b3-4c38-ae2f-4accdf705059.jpeg)
+![19](https://user-images.githubusercontent.com/84588860/125567772-7b9dcb91-d61d-4099-abdf-2a5c7d810750.jpeg)
+![20](https://user-images.githubusercontent.com/84588860/125567774-595c4f75-d925-482a-aa47-1d7086905adb.jpeg)
+
 23. Vea el circuito de la figura 8-83:      
     a. Escriba las ecuaciones de corrientes de rama    
     b. Encuentre la corriente I2    
